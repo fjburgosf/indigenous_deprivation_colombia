@@ -1,0 +1,6 @@
+# census microdata are downloaded from DANE; outputs are regenerated
+data/
+results/
+.venv/
+__pycache__/
+*.pyc
